@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Bank Customer Churn Prediction
 ### Description
 This project predicts customer churn for a banking institution based on user data, leveraging historical data and various customer metrics. The model preprocesses the data, normalizes key features, and encodes categorical variables, producing a structured dataset for training. The model, hosted in a Flask web application, enables customer service teams to input customer data and receive a churn prediction in real-time.
 
